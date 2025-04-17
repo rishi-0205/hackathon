@@ -1,0 +1,89 @@
+{
+  "title": "Frontend Development",
+  "steps": [
+    {
+      "title": "HTML",
+      "description": "Learn the basics of HTML, the foundational language for creating web pages.",
+      "links": [
+        {
+          "title": "HTML Crash Course",
+          "url": "https://www.youtube.com/watch?v=UB1O30fR-EE"
+        },
+        {
+          "title": "HTML Full Course",
+          "url": "https://www.youtube.com/watch?v=pQN-pnXPaVg"
+        }
+      ]
+    },
+    {
+      "title": "CSS",
+      "description": "Understand how to style web pages using Cascading Style Sheets (CSS).",
+      "links": [
+        {
+          "title": "CSS Tutorial for Beginners",
+          "url": "https://www.youtube.com/watch?v=yfoY53QXEnI"
+        },
+        {
+          "title": "Learn CSS in One Video",
+          "url": "https://www.youtube.com/watch?v=1Rs2ND1ryYc"
+        }
+      ]
+    },
+    {
+      "title": "JavaScript",
+      "description": "Dive into JavaScript to make your web pages interactive.",
+      "links": [
+        {
+          "title": "JavaScript Basics",
+          "url": "https://www.youtube.com/watch?v=W6NZfCO5SIk"
+        },
+        {
+          "title": "JavaScript Tutorial for Beginners",
+          "url": "https://www.youtube.com/watch?v=PkZNo7MFNFg"
+        }
+      ]
+    },
+    {
+      "title": "Version Control with Git",
+      "description": "Learn how to use Git for version control and collaborate with others.",
+      "links": [
+        {
+          "title": "Git Tutorial for Beginners",
+          "url": "https://www.youtube.com/watch?v=8JJ101D3knE"
+        },
+        {
+          "title": "Learn Git in 20 Minutes",
+          "url": "https://www.youtube.com/watch?v=nhNq2kIvi9s"
+        }
+      ]
+    },
+    {
+      "title": "Responsive Design",
+      "description": "Understand the principles of responsive design to create mobile-friendly websites.",
+      "links": [
+        {
+          "title": "Responsive Web Design Tutorial",
+          "url": "https://www.youtube.com/watch?v=srvUrASNj0s"
+        },
+        {
+          "title": "Learn Responsive Design",
+          "url": "https://www.youtube.com/watch?v=VIAn7Zx3dUQ"
+        }
+      ]
+    },
+    {
+      "title": "JavaScript Frameworks",
+      "description": "Explore popular JavaScript frameworks like React, Angular, or Vue.js.",
+      "links": [
+        {
+          "title": "React JS Crash Course",
+          "url": "https://www.youtube.com/watch?v=sBws8MSXN7A"
+        },
+        {
+          "title": "Angular Full Course",
+          "url": "https://www.youtube.com/watch?v=2OHbjep_WjQ"
+        }
+      ]
+    }
+  ]
+}
